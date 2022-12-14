@@ -1,4 +1,4 @@
-#CodedByAryaAlfahrezy
+#Coded By Arya Alfahrezy
 
 import turtle
 
